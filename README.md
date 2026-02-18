@@ -1,0 +1,1 @@
+## Essa é uma pequena prática do que aprendi no curso de Typescript, tem muitos outros conceitos que aprendi que não esta aqui, porém em breve irei colocar, e logo menos estarei aplicando tudo isso em um projeto fullstack.
